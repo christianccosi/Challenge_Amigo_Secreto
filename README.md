@@ -23,7 +23,7 @@ Este proyecto es una aplicación web sencilla para realizar un sorteo de "Amigo 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/christianccosi/Challenge_Amigo_Secreto.git
    ```
 2. Abre el archivo `index.html` en un navegador.
 3. Ingresa los nombres y presiona "Añadir".

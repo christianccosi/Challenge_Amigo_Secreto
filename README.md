@@ -29,11 +29,6 @@ git clone https://github.com/christianccosi/Challenge_Amigo_Secreto.git
 3. Ingresa los nombres y presiona "Añadir".
 4. Presiona "Sortear amigo" para seleccionar aleatoriamente un participante.
 
-## 📷 Captura de Pantalla
-
-![image](https://github.com/user-attachments/assets/ce97d4b4-a255-4220-ad29-7d36e6f3d3e8)
-
-
 ## 🎯 Para el proyecto utilize:
 
 - HTML5

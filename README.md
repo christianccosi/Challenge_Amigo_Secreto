@@ -13,10 +13,10 @@ Este proyecto es una aplicación web sencilla para realizar un sorteo de "Amigo 
 
 ```md
 📁 amigo-secreto/
-├── 📄 index.html      # Estructura principal de la aplicación
-├── 🎨 style.css       # Estilos y diseño de la aplicación
-├── 📜 app.js         # Lógica y funcionalidad del sorteo
-├── 📁 assets/        # Imágenes y recursos adicionales
+├── 📄 index.html    # Interfaz de la aplicación
+├── 🎨 style.css     # Estilos y diseño de la aplicación
+├── 📜 app.js        # Lógica y funcionalidad del sorteo
+├── 📁 assets/       # Imágenes y recursos
 ```
 
 ## 🛠️ Instalación y Uso
